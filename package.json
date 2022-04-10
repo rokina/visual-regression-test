@@ -1,0 +1,27 @@
+{
+  "name": "visual-regression-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "regression": "npx reg-suit run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokina/visual-regression-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokina/visual-regression-test/issues"
+  },
+  "homepage": "https://github.com/rokina/visual-regression-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.20.2",
+    "reg-keygen-git-hash-plugin": "^0.11.1",
+    "reg-publish-s3-plugin": "^0.11.0",
+    "reg-suit": "^0.11.1"
+  }
+}
