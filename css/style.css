@@ -10,7 +10,7 @@ caption,th{text-align:left;}
 q:before,q:after{content:'';}
 object,embed{vertical-align:top;}
 legend{display:none;}
-h1,h2,h3,h4,h5,h6{font-size:100%;}
+h1,h2,h3,h4,h5,h6{font-size:110%;}
 img,abbr,acronym,fieldset{border:0;}
 
 body{
@@ -230,10 +230,10 @@ section h2 span {
 	body{
 		font-size:14px;
 	}
-	
+
   a#menu{
 		display:none;
-	}	
+	}
 
 	.panel{
 		display:block !important;
@@ -244,8 +244,8 @@ section h2 span {
 		padding: 50px 25px;
 		font-size: 15px;
 	}
-	
-	
+
+
 	/* SEC03 PROJECT
 	-----------------*/
 	.col3{
@@ -260,7 +260,7 @@ section h2 span {
 		vertical-align: top;
 		text-align: left;
 	}
-	
+
   #footer{
 		padding: 30px 10px 70px 0;
 	}
@@ -312,7 +312,7 @@ section h2 span {
 		width: 100%;
 		z-index: 500;
 	}
-	
+
 	#headerWrap{
 		position: relative;
 		width: 100%;
@@ -320,11 +320,11 @@ section h2 span {
 		background: #fff;
 		border-bottom: 1px solid #ccc;
 	}
-	
+
 	#header h1{
 		padding-top: 10px;
 	}
-	
+
 	#header h1 img{
 		margin-top: 3px;
 		max-height: 45px;
